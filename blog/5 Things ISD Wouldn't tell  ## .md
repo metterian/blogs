@@ -10,6 +10,8 @@
 
 ## 2. How to Collaborate with
 
+
+
 ### Git
 
 ![capture_stepup1_1_2](https://backlog.com/git-tutorial/kr/img/post/stepup/capture_stepup1_1_2.png)
